@@ -219,6 +219,7 @@ int dc[4]={0,-1,0,1};
 inline bool in(int i,int j,int n,int m){ rtn (i>=0 && i<n && j>=0 && j<m);}
 
 
+
 void solve(){
 
 }
